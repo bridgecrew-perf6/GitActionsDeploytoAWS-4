@@ -8,7 +8,6 @@ env:
   AWS_REGION: us-east-1
   S3BUCKET: github-aws-stack-webappdeploymentbucket-10owfycvl90iy 
 
-
 jobs:
   build:
     name: Build and Package
